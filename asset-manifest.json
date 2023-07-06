@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/rn-app/static/js/main.d4a8f756.js",
+    "index.html": "/rn-app/index.html",
+    "main.d4a8f756.js.map": "/rn-app/static/js/main.d4a8f756.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d4a8f756.js"
+  ]
+}
