@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/rn-app/static/js/main.d4a8f756.js",
+    "main.js": "/rn-app/static/js/main.9824d0ac.js",
     "index.html": "/rn-app/index.html",
-    "main.d4a8f756.js.map": "/rn-app/static/js/main.d4a8f756.js.map"
+    "main.9824d0ac.js.map": "/rn-app/static/js/main.9824d0ac.js.map"
   },
   "entrypoints": [
-    "static/js/main.d4a8f756.js"
+    "static/js/main.9824d0ac.js"
   ]
 }
